@@ -10,10 +10,10 @@
 [![](https://visitcount.itsvg.in/api?id=Ayodeji18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @Ayodeji18
-- 👀 I’m interested in working with developers on any project
-- 🌱 I’m currently learning python django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👀 I’m open to collaborating with developers on a variety of projects.
+🌱 I’m currently expanding my skills in Python and Django.
+💞️ I’m looking to collaborate on innovative and challenging projects.
+📫 You can reach me at Hassanayodeji18@gmail.com.
 
 <!---
 Ayodeji18/Ayodeji18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
